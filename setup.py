@@ -26,9 +26,9 @@ setup (
         ' Operating System :: OS Independent ' , 
         ' Programming Language :: Python , 
         # Replace Appropriately thesis if you are stuck on Python 2. 
-        "Programming Language :: Python :: 3 ' , 
-        ' Programming Language :: Python :: 3.2 ' , 
-        ' Programming Language :: Python :: 3.3 ' , 
+        "Programming Language :: Python :: 2 ' , 
+        ' Programming Language :: Python :: 2.7 ' , 
+        ' Programming Language :: Python :: 2.7.11 ' , 
         ' Topic :: Internet :: WWW / HTTP ' , 
         ' Topic :: :: Internet WWW / HTTP :: Dynamic Content ' , 
     ] 
